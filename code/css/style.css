@@ -1,0 +1,55 @@
+#header_princ {
+    width: 1200px;
+    height: 250px;
+}
+
+.header_cote {
+    display: inline-block;
+    height: 250px;
+    width: 375px;
+}
+
+.color_back{
+    background-color: teal;
+}
+
+#image_droite {
+    width: 150px;
+    height: 150px;
+    display: inline;
+    margin-top: 75px;
+}
+
+#image_gauche {
+    width: 150px;
+    height: 150px;
+    display: inline;
+    margin-top: 75px;
+
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+#section_premiere{
+    width: 1200px;
+    height: 500px;
+}
+
+.duo_section{
+    display: inline-block;
+    width: 550px;
+    height: 500px;
+}
+
+#bgsection_un{
+    background-color: red;
+}
+
+#image_csgo{
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+}
