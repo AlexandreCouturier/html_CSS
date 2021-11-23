@@ -40,8 +40,9 @@ h1 {
 
 .duo_section{
     display: inline-block;
-    width: 550px;
+    width: 562px;
     height: 500px;
+    vertical-align: top;
 }
 
 #bgsection_un{
@@ -52,4 +53,40 @@ h1 {
     display: inline-block;
     width: 300px;
     height: 250px;
+}
+
+#bgsection_deux{
+    background-color: chocolate;
+    text-align: center;
+}
+
+#paragraphe_un{
+    text-align: center;
+}
+
+#image_Back{
+    width: 1200px;
+}
+
+#imageDeFond{
+    width: 1125px;
+    height: 500px;
+}
+
+#finDePage{
+    width: 1200px;
+    vertical-align: top;
+}
+
+#fooder_div{
+    background-color: darkred;
+    width: 1125px;
+    height: 250px;
+
+ }
+
+#texteDeFin{
+    width: 400px;
+    height: 100px;
+    margin-top: 0px;
 }
